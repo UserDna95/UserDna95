@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 🏋️‍♀️Self-taught data analyst
+
 📚Completed a Bachelor of Science from the University of Toronto
+
 🛠️I love anything DIY and I'm learning to sew
+
 🖥️At the moment I'm working on some Python projects!
 
 
