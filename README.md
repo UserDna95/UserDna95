@@ -4,7 +4,7 @@
 
 📚Completed a Bachelor of Science from the University of Toronto<be>
 
-🛠️I love anything DIY and I'm learning to sew<be>
+🛠️I love anything DIY and I'm currently learning to sew<be>
 
 🖥️At the moment I'm working on some Python projects!<be>
 
