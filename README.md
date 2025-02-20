@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🏋️‍♀️Self-taught data analyst <be>
-📚Completed a Bachelor of Science from the University of Toronto<be>
-🛠️I love anything DIY and I'm learning to sew<be>
-🖥️At the moment I'm working on some Python projects!<br>
+🏋️‍♀️Self-taught data analyst
+📚Completed a Bachelor of Science from the University of Toronto
+🛠️I love anything DIY and I'm learning to sew
+🖥️At the moment I'm working on some Python projects!
 
 
 # 💻 Tech Stack:
