@@ -1,5 +1,6 @@
 ## Hi there 👋
-<br><br>🏋️‍♀️Self-taught data analyst <be><br><be>
+
+🏋️‍♀️Self-taught data analyst <be><br><be>
 
 📚Completed a Bachelor of Science from the University of Toronto<be><br><be>
 
