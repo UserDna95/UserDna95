@@ -2,7 +2,7 @@
 
 🏋️‍♀️Self-taught data analyst <be><br><be>
 
-📚I've completed a Bachelor of Science from the University of Toronto<be><br><be>
+📚 HBSc from the UofT be><br><be>
 
 🛠️I love anything DIY and I'm currently learning to sew<be><br><be>
 
